@@ -1,0 +1,17 @@
+CONFIRMATION NUMBER: 46226
+ORDER CREATED BY Andres Rodriguez Toca from Austral International
+
+Item: 4 x 4 x 8 Corrugated Boxes 25/Bundle
+ Quantity: 5
+Quantity Price: $53.5
+Item: 4 x 4 x 9 Corrugated Boxes 25/Bundle
+ Quantity: 10
+Quantity Price: $157.5
+Item: 4 x 4 x 28 Corrugated Boxes 25/Bundle
+ Quantity: 5
+Quantity Price: $119.25
+Item: 5 x 5 x 5 Corrugated Boxes 25/Bundle
+ Quantity: 10
+Quantity Price: $92
+
+Total Due: $422.25

@@ -1,0 +1,6 @@
+First Name: Andres
+Last Name: Rodriguez
+Username: andresrt
+Company: Austral International
+Password: $2y$10$VPDkGz4eagXtD2sbG0fA9uSZpNJDzy8H37fAsT3js6ks2JCnmiNAW
+Marketing File Path: data/COP2800 Lab 8 Summer.docx
